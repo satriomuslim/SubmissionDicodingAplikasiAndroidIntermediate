@@ -1,8 +1,8 @@
 # SubmissionDicodingAplikasiAndroidIntermediate
 
 *Submission Aplikasi Story App*
-Fitur yang harus ada pada aplikasi:
 
+Fitur yang harus ada pada aplikasi:
 1. Halaman Autentikasi
       - Menampilkan halaman login untuk masuk ke dalam aplikasi. Berikut input yang dibutuhkan.
         - Email (R.id.ed_login_email)
@@ -50,8 +50,8 @@ Kerangka tampilan yang digunakan sebagai referensi:
 
 
 *Submission Akhir Aplikasi Story App*
-Fitur yang harus ada pada aplikasi:
 
+Fitur yang harus ada pada aplikasi:
 1. Mempertahankan Fitur dari Submission Sebelumnya
       - Pastikan berbagai fitur yang ada dalam submission sebelumnya berjalan dengan baik.
 
