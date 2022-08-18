@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">AppsStory</string>
+
+    <string name="regis">Register</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Enter your data first !!</string>
+    <string name="title_regis_page">Register Menu</string>
+    <string name="logout">Logout</string>
+    <string name="min_length_char">Minimal Length %1$d characters</string>
+    <string name="email_hint">Text your email</string>
+    <string name="pass_hint">Text your password</string>
+    <string name="image_login">image login</string>
+    <string name="invalid_email">Format email is invalid!</string>
+    <string name="name">Name</string>
+    <string name="name_hint">Text your name</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="hint_desc">Text your description</string>
+    <string name="avatar">avatar</string>
+    <string name="username">username</string>
+    <string name="message_validation">Enter your %1$s</string>
+    <string name="login_success">Login success!</string>
+    <string name="created_at">Created At</string>
+    <string name="title_description">Description</string>
+    <string name="description">This is a description</string>
+    <string name="upload_story">Upload Story</string>
+    <string name="uploading">Uploading…</string>
+    <string name="add_story">Add Story</string>
+    <string name="cd_preview">Preview image captured by camera or from gallery</string>
+    <string name="permission_denied">Can\'t get permission</string>
+    <string name="input_your_image">Please upload your image first!</string>
+    <string name="choose_picture">Choose a Picture</string>
+    <string name="setting">Setting</string>
+    <string name="login_error">Login failure, please try again!</string>
+    <string name="signup_error">Signup failure, please try again!</string>
+    <string name="splash">splash</string>
+    <string name="detail">Detail</string>
+    <string name="retry">Retry</string>
+    <string name="maps">Maps</string>
+    <string name="location_not_found">Location is not found. Try Again</string>
+    <string name="my_location">My Location</string>
+    <string name="map_style_error">Style parsing failed.</string>
+    <string name="map_style_nope">\"Can\'t find style. Error: \"</string>
+    <string name="share_my_location">Share my location</string>
+
+    <string name="login_account">
+        I already have an account. <font color="#00C9B8"><b>Login</b></font>
+    </string>
+    <string name="login_no_account">
+        I dont have any account. <font color="#00C9B8"><b>Sign Up</b></font>
+    </string>
+</resources>

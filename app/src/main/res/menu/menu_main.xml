@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/add_story"
+        android:title="@string/add_story"
+        android:icon="@drawable/ic_baseline_camera_alt_24"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/map_menu"
+        android:title="@string/maps"
+        android:icon="@drawable/ic_baseline_location_on_24"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menu_logout"
+        android:title="@string/logout"
+        android:icon="@drawable/ic_baseline_login_24"
+        app:showAsAction="always"/>
+</menu>
